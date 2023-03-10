@@ -12,6 +12,6 @@ namespace Strings_DeBord_Joshua
             bool isLetter = Char.IsLetter(myChar);
 
             Console.WriteLine($"\n {myChar} is a letter: {isLetter}.");
-        }
+        } 
     }
 }
